@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--bold-->
+
+  <b>welcome</b>  
+
+  <br>
+
+  <strong>strong</strong>
+
+  <br>
+
+  <!--italic-->
+
+  <i>italic</i>
+
+  <br>
+
+  <em>emphasise</em>
+
+  <br>
+
+  <!--underline-->
+
+  <u>underline</u>
+
+  <br>
+
+  <!--mark-->
+
+  <mark>marking</mark>
+
+  <br>
+
+  <!--strick-->
+
+  <strike>hello</strike><br>
+
+  <s>hello</s><!--it is used in html5-->
+
+  <br>
+
+  <del>hello</del>
+
+  <br>
+
+  <!--insert tag is used for insert it comes in underline-->
+
+  <del>hello</del><ins>hii</ins>
+
+  <br><br>
+
+  <!--subscript and superscript-->
+
+  <p>h<sub>2</sub>o</p>
+
+  <p>x<sup>2</sup></p>
+
+  <!--big &small-->
+
+  <big>welcome</big><br>
+
+  <small>welcom</small><br>
+
+<!--progress-->
+
+<progress value="5" max="12"></progress>
+
+<br>
+
+<!--details-->
+
+<details>
+
+    <summary>html</summary>
+
+    <p>it is markup language</p>
+
+</details>
+</body>
+</html>
