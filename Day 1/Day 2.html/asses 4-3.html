@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2px">
+        <tr>
+            <td>
+                <fieldset>
+                    <legend>CUSTOMER</legend>
+                    <form>
+                        <label for="fname">FIRST NAME<sup> *</sup>:</label>
+                        <input type="text" id="fname" name="fname"><br><br>
+                        <label for="email">EMAIL<sup> *</sup>:</label>
+                        <input type="email" name="email"><br><br>
+                        <label for="investment">INVESTMENT:</label>
+                        <input list="investment">
+                        <datalist id="investment">
+                            <option value="less than one lakh">
+                            <option value="more than one lakh">
+                        </datalist><br><br>
+                        <label for="birthday">Date Joined<sup> *</sup></label>
+                        <input type="date" id="birthday" name="birthday"><br><br>
+                        <label for="active">ACTIVE</label>
+                        <input type="checkbox" name="active"><br><br>
+                        <input type="submit" value="ok" input type="reset" value="cancel">
+                    </form>
+                </fieldset>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
